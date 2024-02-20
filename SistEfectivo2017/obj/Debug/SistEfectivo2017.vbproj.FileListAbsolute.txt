@@ -1,0 +1,1303 @@
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbprojResolveAssemblyReference.cache
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCaja.resources
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmLoguin.resources
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.Resources.resources
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.GenerateResource.Cache
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.pdb
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.xml
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\bin\Debug\IrisSkin4.dll
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\bin\Debug\System.Data.SQLite.dll
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Controls.dll
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Utilities.dll
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.xml
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.pdb
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmAlerta.resources
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioTarj.resources
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmClientes.resources
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarReporte.resources
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTablaDivisas.resources
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.config
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\bin\Debug\crdb_adoplus.dll
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBscCliente.resources
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmGatos.resources
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmClientesDoc.resources
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioD.resources
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarD.resources
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasBloqueadas.resources
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasPoliticas.resources
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPuntosNC.resources
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.Traspasos.resources
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTransferencias.resources
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmEstadoCuentaT.resources
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMensajePts.resources
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMorales.resources
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMConsulta.resources
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBsOnonimos.resources
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarNota.resources
+C:\Users\sistemas2\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmReporteTransf.resources
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.config
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.xml
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.pdb
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.pdb
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.xml
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\bin\Debug\IrisSkin4.dll
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\bin\Debug\System.Data.SQLite.dll
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Controls.dll
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Utilities.dll
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbprojResolveAssemblyReference.cache
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmAlerta.resources
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBscCliente.resources
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBsOnonimos.resources
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCaja.resources
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioD.resources
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioTarj.resources
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmClientes.resources
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmClientesDoc.resources
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmEstadoCuentaT.resources
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarD.resources
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmGatos.resources
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMensajePts.resources
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarNota.resources
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarReporte.resources
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasBloqueadas.resources
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasPoliticas.resources
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMConsulta.resources
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMorales.resources
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPuntosNC.resources
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmReporteTransf.resources
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTablaDivisas.resources
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTransferencias.resources
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.Traspasos.resources
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmLoguin.resources
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.Resources.resources
+D:\Escritorio\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.GenerateResource.Cache
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.config
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.xml
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.pdb
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.pdb
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.xml
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\bin\Debug\IrisSkin4.dll
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\bin\Debug\System.Data.SQLite.dll
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Controls.dll
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Utilities.dll
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbprojResolveAssemblyReference.cache
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmAlerta.resources
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBscCliente.resources
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBsOnonimos.resources
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCaja.resources
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioD.resources
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioTarj.resources
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmClientes.resources
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmClientesDoc.resources
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmEstadoCuentaT.resources
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarD.resources
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmGatos.resources
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMensajePts.resources
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarNota.resources
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarReporte.resources
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasBloqueadas.resources
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasPoliticas.resources
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMConsulta.resources
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMorales.resources
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPuntosNC.resources
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmReporteTransf.resources
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTablaDivisas.resources
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTransferencias.resources
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.Traspasos.resources
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmLoguin.resources
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.Resources.resources
+C:\Users\Sistemas\Desktop\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.GenerateResource.Cache
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.config
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.xml
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.pdb
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.pdb
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.xml
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\IrisSkin4.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\System.Data.SQLite.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Controls.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Utilities.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmAlerta.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBscCliente.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBsOnonimos.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCaja.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioD.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioTarj.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmClientes.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmEstadoCuentaT.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarD.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmGatos.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMensajePts.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarNota.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarReporte.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasBloqueadas.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasPoliticas.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMConsulta.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMorales.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPuntosNC.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmReporteTransf.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTablaDivisas.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTransferencias.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.Traspasos.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmLoguin.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.Resources.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.GenerateResource.Cache
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmVerificacionAut.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.config
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.xml
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.pdb
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\bin\Debug\SistEfectivo2017.pdb
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\bin\Debug\SistEfectivo2017.xml
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\bin\Debug\crdb_adoplus.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\bin\Debug\IrisSkin4.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\bin\Debug\System.Data.SQLite.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Controls.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Utilities.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbprojResolveAssemblyReference.cache
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmAlerta.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBscCliente.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBsOnonimos.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCaja.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioD.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioTarj.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmClientes.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmEstadoCuentaT.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarD.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmGatos.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMensajePts.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarNota.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarReporte.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasBloqueadas.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasPoliticas.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMConsulta.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMorales.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPuntosNC.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmReporteTransf.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTablaDivisas.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTransferencias.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmVerificacionAut.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.Traspasos.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmLoguin.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.Resources.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017Calculadora\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.GenerateResource.Cache
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersBloqListaInt.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.manifest
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.application
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.TrustInfo.xml
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe.manifest
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.application
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarE.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarDC.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarL.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmIdentificacion.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCBProveedor.resources
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\EnvDTE.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\FlashControlV71.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\stdole.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.presentation.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.pdb
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.xml
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.presentation.pdb
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.presentation.xml
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.CoreCompileInputs.cache
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.CopyComplete
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbprojAssemblyReference.cache
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\MySql.Data.dll
+C:\Users\Sistemas\Desktop\Modificaciones de los sistemas\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\MySql.Data.xml
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.config
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.manifest
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.application
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.pdb
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.xml
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\IrisSkin4.dll
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\MySql.Data.dll
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\System.Data.SQLite.dll
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Controls.dll
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Utilities.dll
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.dll
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.presentation.dll
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\EnvDTE.dll
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\FlashControlV71.dll
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\stdole.dll
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\MySql.Data.xml
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.pdb
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.xml
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.presentation.pdb
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.presentation.xml
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbprojAssemblyReference.cache
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCBProveedor.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmClientes.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarL.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarDC.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarE.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmAlerta.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBscCliente.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBsOnonimos.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCaja.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioD.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioTarj.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmEstadoCuentaT.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarD.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmGatos.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmIdentificacion.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMensajePts.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarNota.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarReporte.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersBloqListaInt.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasBloqueadas.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasPoliticas.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMConsulta.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMorales.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPuntosNC.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmReporteTransf.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTablaDivisas.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTransferencias.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmVerificacionAut.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.Traspasos.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmLoguin.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.Resources.resources
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.GenerateResource.cache
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.CoreCompileInputs.cache
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.TrustInfo.xml
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe.manifest
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.application
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.CopyComplete
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.xml
+C:\Users\santiago\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.pdb
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCBProveedor.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmClientes.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarL.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarDC.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarE.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmAlerta.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBscCliente.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBsOnonimos.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCaja.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioD.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioTarj.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmEstadoCuentaT.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarD.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmGatos.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmIdentificacion.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMensajePts.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarNota.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarReporte.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersBloqListaInt.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasBloqueadas.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasPoliticas.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMConsulta.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMorales.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPuntosNC.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmReporteTransf.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTablaDivisas.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTransferencias.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmVerificacionAut.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.Traspasos.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmLoguin.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.Resources.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.GenerateResource.cache
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.CoreCompileInputs.cache
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.config
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.manifest
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.application
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.pdb
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.xml
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\IrisSkin4.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\log4net.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\System.Data.SQLite.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Controls.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Utilities.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.presentation.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\FlashControlV71.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\stdole.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\log4net.xml
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.pdb
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.xml
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.presentation.pdb
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.presentation.xml
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbprojAssemblyReference.cache
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.TrustInfo.xml
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe.manifest
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.application
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.CopyComplete
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.xml
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.pdb
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.config
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.manifest
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\SistEfectivo2017.application
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\SistEfectivo2017.pdb
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\SistEfectivo2017.xml
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\IrisSkin4.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\log4net.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\System.Data.SQLite.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Controls.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Utilities.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\zxing.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\zxing.presentation.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\FlashControlV71.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\stdole.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\log4net.xml
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\zxing.pdb
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\zxing.xml
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\zxing.presentation.pdb
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\bin\Debug\zxing.presentation.xml
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbprojAssemblyReference.cache
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCBProveedor.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmClientes.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarL.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarDC.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarE.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmAlerta.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBscCliente.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBsOnonimos.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCaja.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioD.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioTarj.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmEstadoCuentaT.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarD.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmGatos.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmIdentificacion.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMensajePts.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarNota.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarReporte.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersBloqListaInt.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasBloqueadas.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasPoliticas.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMConsulta.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMorales.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPuntosNC.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmReporteTransf.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTablaDivisas.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTransferencias.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmVerificacionAut.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.Traspasos.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmLoguin.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.Resources.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.GenerateResource.cache
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.CoreCompileInputs.cache
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.TrustInfo.xml
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe.manifest
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.application
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.CopyComplete
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.xml
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Strech\SistEfectivo2017\obj\Debug\SistEfectivo2017.pdb
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.config
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.manifest
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\SistEfectivo2017.application
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\SistEfectivo2017.pdb
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\SistEfectivo2017.xml
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\IrisSkin4.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\log4net.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\System.Data.SQLite.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Controls.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Utilities.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\zxing.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\zxing.presentation.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\FlashControlV71.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\stdole.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\log4net.xml
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\zxing.pdb
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\zxing.xml
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\zxing.presentation.pdb
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\zxing.presentation.xml
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCBProveedor.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmClientes.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarL.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarDC.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarE.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmAlerta.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBscCliente.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBsOnonimos.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCaja.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioD.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioTarj.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmEstadoCuentaT.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarD.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmGatos.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenerarPass.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenerarTarjeta.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenTarjetaC.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmIdentificacion.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMensajePts.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarNota.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarReporte.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersBloqListaInt.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasBloqueadas.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasPoliticas.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMConsulta.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMorales.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPuntosNC.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmReporteTransf.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTablaDivisas.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTransferencias.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmVerificacionAut.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.Traspasos.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmLoguin.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.Resources.resources
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.GenerateResource.cache
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe.licenses
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.CoreCompileInputs.cache
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.TrustInfo.xml
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe.manifest
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.application
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.CopyComplete
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.xml
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.pdb
+C:\Users\Sistemas\Desktop\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbprojAssemblyReference.cache
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.config
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.manifest
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\SistEfectivo2017.application
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\SistEfectivo2017.pdb
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\SistEfectivo2017.xml
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\CrystalDecisions.Shared.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\IrisSkin4.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\log4net.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\System.Data.SQLite.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Controls.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Utilities.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\zxing.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\zxing.presentation.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\FlashControlV71.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\stdole.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\ShockwaveFlashObjects.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\log4net.xml
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\zxing.pdb
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\zxing.xml
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\zxing.presentation.pdb
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\bin\Debug\zxing.presentation.xml
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbprojResolveAssemblyReference.cache
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCBProveedor.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmClientes.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarL.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarDC.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarE.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmAlerta.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBscCliente.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBsOnonimos.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCaja.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioD.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioTarj.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmEstadoCuentaT.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarD.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmGatos.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenerarPass.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenerarTarjeta.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenTarjetaC.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmIdentificacion.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMensajePts.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarNota.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarReporte.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersBloqListaInt.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasBloqueadas.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasPoliticas.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMConsulta.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMorales.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPuntosNC.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmReporteTransf.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTablaDivisas.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTransferencias.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmVerificacionAut.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.Traspasos.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmLoguin.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.Resources.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.GenerateResource.Cache
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe.licenses
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.TrustInfo.xml
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe.manifest
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.application
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.xml
+F:\Modificaciones\SistEfectivo2017 - Touch - copia\SistEfectivo2017\obj\Debug\SistEfectivo2017.pdb
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.config
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.manifest
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\SistEfectivo2017.application
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\SistEfectivo2017.pdb
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\SistEfectivo2017.xml
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\CrystalDecisions.Shared.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\IrisSkin4.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\log4net.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\System.Data.SQLite.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Controls.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Utilities.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\zxing.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\zxing.presentation.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\FlashControlV71.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\stdole.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\ShockwaveFlashObjects.dll
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\log4net.xml
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\zxing.pdb
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\zxing.xml
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\zxing.presentation.pdb
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\bin\Debug\zxing.presentation.xml
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbprojResolveAssemblyReference.cache
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCBProveedor.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmClientes.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarL.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarDC.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarE.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmAlerta.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBscCliente.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBsOnonimos.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCaja.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioD.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioTarj.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmEstadoCuentaT.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarD.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmGatos.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenerarPass.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenerarTarjeta.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenTarjetaC.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmIdentificacion.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMensajePts.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarNota.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarReporte.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersBloqListaInt.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasBloqueadas.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasPoliticas.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMConsulta.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMorales.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPuntosNC.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmReporteTransf.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTablaDivisas.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTransferencias.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmVerificacionAut.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.Traspasos.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmLoguin.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.Resources.resources
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.GenerateResource.Cache
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe.licenses
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.TrustInfo.xml
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe.manifest
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.application
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.xml
+F:\Modificaciones\SistEfectivo2017 - Touch - Real\SistEfectivo2017\obj\Debug\SistEfectivo2017.pdb
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.config
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.manifest
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\SistEfectivo2017.application
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\SistEfectivo2017.pdb
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\SistEfectivo2017.xml
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.Shared.dll
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\IrisSkin4.dll
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\log4net.dll
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\System.Data.SQLite.dll
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Controls.dll
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Utilities.dll
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\zxing.dll
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\zxing.presentation.dll
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\FlashControlV71.dll
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\stdole.dll
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\ShockwaveFlashObjects.dll
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\log4net.xml
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\zxing.pdb
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\zxing.xml
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\zxing.presentation.pdb
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\zxing.presentation.xml
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCBProveedor.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmClientes.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarL.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarDC.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarE.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmAlerta.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBscCliente.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBsOnonimos.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCaja.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioD.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioTarj.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmEstadoCuentaT.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarD.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmGatos.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenerarPass.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenerarTarjeta.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenTarjetaC.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmIdentificacion.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMensajePts.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarNota.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarReporte.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersBloqListaInt.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasBloqueadas.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasPoliticas.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMConsulta.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMorales.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPuntosNC.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmReporteTransf.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTablaDivisas.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTransferencias.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmVerificacionAut.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.Traspasos.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmLoguin.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.Resources.resources
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.GenerateResource.cache
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe.licenses
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.CoreCompileInputs.cache
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.TrustInfo.xml
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe.manifest
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.application
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.CopyComplete
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.xml
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.pdb
+F:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbprojAssemblyReference.cache
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.config
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.manifest
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\SistEfectivo2017.application
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\SistEfectivo2017.pdb
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\SistEfectivo2017.xml
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.Shared.dll
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\IrisSkin4.dll
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\log4net.dll
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\System.Data.SQLite.dll
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Controls.dll
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Utilities.dll
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\zxing.dll
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\zxing.presentation.dll
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\FlashControlV71.dll
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\stdole.dll
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\ShockwaveFlashObjects.dll
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\log4net.xml
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\zxing.pdb
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\zxing.xml
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\zxing.presentation.pdb
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\zxing.presentation.xml
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbprojAssemblyReference.cache
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCBProveedor.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmClientes.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarL.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarDC.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarE.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmAlerta.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBscCliente.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBsOnonimos.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCaja.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioD.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioTarj.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmEstadoCuentaT.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarD.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmGatos.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenerarPass.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenerarTarjeta.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenTarjetaC.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmIdentificacion.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMensajePts.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarNota.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarReporte.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersBloqListaInt.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasBloqueadas.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasPoliticas.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMConsulta.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMorales.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPuntosNC.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmReporteTransf.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTablaDivisas.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTransferencias.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmVerificacionAut.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.Traspasos.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmLoguin.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.Resources.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.GenerateResource.cache
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe.licenses
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.CoreCompileInputs.cache
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.TrustInfo.xml
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe.manifest
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.application
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.CopyComplete
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.xml
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.pdb
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmCobro.resources
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Modificaciones\SistEfectivo2017 - Touch\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmDialogo.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.config
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.manifest
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\SistEfectivo2017.application
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\SistEfectivo2017.pdb
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\SistEfectivo2017.xml
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.Shared.dll
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\IrisSkin4.dll
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\log4net.dll
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\System.Data.SQLite.dll
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Controls.dll
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Utilities.dll
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\zxing.dll
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\zxing.presentation.dll
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\FlashControlV71.dll
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\stdole.dll
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\ShockwaveFlashObjects.dll
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\log4net.xml
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\zxing.pdb
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\zxing.xml
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\zxing.presentation.pdb
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\zxing.presentation.xml
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCBProveedor.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmClientes.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmCobro.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmDialogo.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarL.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarDC.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarE.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmAlerta.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBscCliente.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBsOnonimos.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCaja.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioD.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioTarj.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmEstadoCuentaT.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarD.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmGatos.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenerarPass.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenerarTarjeta.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenTarjetaC.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmIdentificacion.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMensajePts.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarNota.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarReporte.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersBloqListaInt.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasBloqueadas.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasPoliticas.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMConsulta.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMorales.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPuntosNC.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmReporteTransf.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTablaDivisas.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTransferencias.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmVerificacionAut.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.Traspasos.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmLoguin.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.Resources.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.GenerateResource.cache
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe.licenses
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.CoreCompileInputs.cache
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.TrustInfo.xml
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe.manifest
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.application
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.CopyComplete
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.xml
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.pdb
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmImpNota.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmMensajeImp.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmMetas.resources
+D:\Modificaciones\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbprojAssemblyReference.cache
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.config
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.manifest
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\SistEfectivo2017.application
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\SistEfectivo2017.pdb
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\SistEfectivo2017.xml
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.Shared.dll
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\IrisSkin4.dll
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\log4net.dll
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\System.Data.SQLite.dll
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Controls.dll
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Utilities.dll
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\zxing.dll
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\zxing.presentation.dll
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\FlashControlV71.dll
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\stdole.dll
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\ShockwaveFlashObjects.dll
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\log4net.xml
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\zxing.pdb
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\zxing.xml
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\zxing.presentation.pdb
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\bin\Debug\zxing.presentation.xml
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCBProveedor.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmClientes.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmCobro.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmDialogo.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarL.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarDC.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarE.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmAlerta.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBscCliente.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBsOnonimos.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCaja.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioD.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioTarj.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmEstadoCuentaT.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarD.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmGatos.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenerarPass.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenerarTarjeta.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenTarjetaC.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmIdentificacion.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmImpNota.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmMensajeImp.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMensajePts.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmMetas.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarNota.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarReporte.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersBloqListaInt.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasBloqueadas.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasPoliticas.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMConsulta.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMorales.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPuntosNC.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmReporteTransf.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTablaDivisas.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTransferencias.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmVerificacionAut.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.Traspasos.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmLoguin.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.Resources.resources
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.GenerateResource.cache
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe.licenses
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.CoreCompileInputs.cache
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.TrustInfo.xml
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe.manifest
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.application
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.CopyComplete
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.xml
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.pdb
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbprojAssemblyReference.cache
+C:\Fuentes Efectivo\SistEfectivo2017 - Touch - Actual\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionLista69B.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.config
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.manifest
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.application
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.pdb
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.xml
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.Shared.dll
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\IrisSkin4.dll
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\System.Data.SQLite.dll
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Controls.dll
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Utilities.dll
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.dll
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.presentation.dll
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\log4net.xml
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.xml
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.presentation.xml
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.AssemblyReference.cache
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmAutCambioCel.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCBProveedor.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmCelular.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmClientes.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmCobro.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmDialogo.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarL.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarDC.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarE.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmAlerta.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBscCliente.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBsOnonimos.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCaja.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioD.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioTarj.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmEstadoCuentaT.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarD.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmGatos.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenerarPass.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenerarTarjeta.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenTarjetaC.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmIdentificacion.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmIdentificacionCaja.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmImpNota.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmMensajeImp.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMensajePts.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmMetas.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarNota.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarReporte.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionLista69B.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersBloqListaInt.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasBloqueadas.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasPoliticas.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMConsulta.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMorales.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPuntosNC.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmReporteTransf.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTablaDivisas.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTransferencias.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmVerificacionAut.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.Traspasos.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmLoguin.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.Resources.resources
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.GenerateResource.cache
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe.licenses
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.CoreCompileInputs.cache
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.TrustInfo.xml
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe.manifest
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.application
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.CopyComplete
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.xml
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.pdb
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.config
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.manifest
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.application
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.pdb
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.xml
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.Shared.dll
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\IrisSkin4.dll
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\log4net.dll
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\System.Data.SQLite.dll
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Controls.dll
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Utilities.dll
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.dll
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.presentation.dll
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\FlashControlV71.dll
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\ShockwaveFlashObjects.dll
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\stdole.dll
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\log4net.xml
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.xml
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.presentation.xml
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmAutCambioCel.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCBProveedor.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmCelular.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmClientes.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmCobro.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmDialogo.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarL.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarDC.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarE.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmAlerta.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBscCliente.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBsOnonimos.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCaja.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioD.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioTarj.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmEstadoCuentaT.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarD.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmGatos.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenerarPass.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenerarTarjeta.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenTarjetaC.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmIdentificacion.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmIdentificacionCaja.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmImpNota.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmMensajeImp.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMensajePts.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmMetas.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarNota.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarReporte.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionLista69B.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersBloqListaInt.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasBloqueadas.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasPoliticas.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMConsulta.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMorales.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPuntosNC.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmReporteTransf.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTablaDivisas.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTransferencias.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmVerificacionAut.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.Traspasos.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmLoguin.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.Resources.resources
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.GenerateResource.Cache
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe.licenses
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.TrustInfo.xml
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe.manifest
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.application
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.xml
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.pdb
+D:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbprojResolveAssemblyReference.cache
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\stdole.dll
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Fuentes Efectivo\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.config
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe.manifest
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.application
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.exe
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.pdb
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\SistEfectivo2017.xml
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.Shared.dll
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\IrisSkin4.dll
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\System.Data.SQLite.dll
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Controls.dll
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\VIBlend.WinForms.Utilities.dll
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.dll
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.presentation.dll
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\stdole.dll
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\log4net.xml
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.xml
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\bin\Debug\zxing.presentation.xml
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbprojAssemblyReference.cache
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmAutCambioCel.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCBProveedor.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmCelular.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmClientes.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmCobro.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmDialogo.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarL.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarDC.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarE.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmAlerta.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBscCliente.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmBsOnonimos.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCaja.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioD.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmCambioTarj.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmEstadoCuentaT.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmFraccionarD.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmGatos.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenerarPass.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenerarTarjeta.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmGenTarjetaC.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmIdentificacion.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmIdentificacionCaja.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmImpNota.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmMensajeImp.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMensajePts.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.frmMetas.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarNota.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmMostrarReporte.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionLista69B.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersBloqListaInt.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasBloqueadas.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmNotificacionPersonasPoliticas.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMConsulta.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPersonasMorales.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmPuntosNC.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmReporteTransf.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTablaDivisas.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmTransferencias.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmVerificacionAut.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.Traspasos.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.FrmLoguin.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.Resources.resources
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.GenerateResource.cache
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe.licenses
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.TrustInfo.xml
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe.manifest
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.application
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.vbproj.CopyComplete
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.exe
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.xml
+C:\Fuentes\SistEfectivo2017\SistEfectivo2017\obj\Debug\SistEfectivo2017.pdb

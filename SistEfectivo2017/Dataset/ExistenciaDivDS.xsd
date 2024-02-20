@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ExistenciaDivDS" targetNamespace="http://tempuri.org/ExistenciaDivDS.xsd" xmlns:mstns="http://tempuri.org/ExistenciaDivDS.xsd" xmlns="http://tempuri.org/ExistenciaDivDS.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="MeritradePruebasConnectionString" IsAppSettingsProperty="true" Modifier="Assembly" Name="MeritradePruebasConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.SistEfectivo2017.My.MySettings.GlobalReference.Default.MeritradePruebasConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ExistenciaDivDS" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="ExistenciaDivDS" msprop:Generator_UserDSName="ExistenciaDivDS">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Existencia" msprop:Generator_TableClassName="ExistenciaDataTable" msprop:Generator_TableVarName="tableExistencia" msprop:Generator_TablePropName="Existencia" msprop:Generator_RowDeletingName="ExistenciaRowDeleting" msprop:Generator_RowChangingName="ExistenciaRowChanging" msprop:Generator_RowEvHandlerName="ExistenciaRowChangeEventHandler" msprop:Generator_RowDeletedName="ExistenciaRowDeleted" msprop:Generator_UserTableName="Existencia" msprop:Generator_RowChangedName="ExistenciaRowChanged" msprop:Generator_RowEvArgName="ExistenciaRowChangeEvent" msprop:Generator_RowClassName="ExistenciaRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="fecha" msprop:Generator_ColumnVarNameInTable="columnfecha" msprop:Generator_ColumnPropNameInRow="fecha" msprop:Generator_ColumnPropNameInTable="fechaColumn" msprop:Generator_UserColumnName="fecha" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="nosucursal" msprop:Generator_ColumnVarNameInTable="columnnosucursal" msprop:Generator_ColumnPropNameInRow="nosucursal" msprop:Generator_ColumnPropNameInTable="nosucursalColumn" msprop:Generator_UserColumnName="nosucursal" type="xs:string" minOccurs="0" />
+              <xs:element name="divisa" msprop:Generator_ColumnVarNameInTable="columndivisa" msprop:Generator_ColumnPropNameInRow="divisa" msprop:Generator_ColumnPropNameInTable="divisaColumn" msprop:Generator_UserColumnName="divisa" type="xs:string" minOccurs="0" />
+              <xs:element name="si" msprop:Generator_ColumnVarNameInTable="columnsi" msprop:Generator_ColumnPropNameInRow="si" msprop:Generator_ColumnPropNameInTable="siColumn" msprop:Generator_UserColumnName="si" type="xs:int" minOccurs="0" />
+              <xs:element name="en" msprop:Generator_ColumnVarNameInTable="columnen" msprop:Generator_ColumnPropNameInRow="en" msprop:Generator_ColumnPropNameInTable="enColumn" msprop:Generator_UserColumnName="en" type="xs:int" minOccurs="0" />
+              <xs:element name="sal" msprop:Generator_ColumnVarNameInTable="columnsal" msprop:Generator_ColumnPropNameInRow="sal" msprop:Generator_ColumnPropNameInTable="salColumn" msprop:Generator_UserColumnName="sal" type="xs:int" minOccurs="0" />
+              <xs:element name="sf" msprop:Generator_ColumnVarNameInTable="columnsf" msprop:Generator_ColumnPropNameInRow="sf" msprop:Generator_ColumnPropNameInTable="sfColumn" msprop:Generator_UserColumnName="sf" type="xs:int" minOccurs="0" />
+              <xs:element name="te" msprop:Generator_ColumnVarNameInTable="columnte" msprop:Generator_ColumnPropNameInRow="te" msprop:Generator_ColumnPropNameInTable="teColumn" msprop:Generator_UserColumnName="te" type="xs:int" minOccurs="0" />
+              <xs:element name="ts" msprop:Generator_ColumnVarNameInTable="columnts" msprop:Generator_ColumnPropNameInRow="ts" msprop:Generator_ColumnPropNameInTable="tsColumn" msprop:Generator_UserColumnName="ts" type="xs:int" minOccurs="0" />
+              <xs:element name="precio" msprop:Generator_ColumnVarNameInTable="columnprecio" msprop:Generator_ColumnPropNameInRow="precio" msprop:Generator_ColumnPropNameInTable="precioColumn" msprop:Generator_UserColumnName="precio" type="xs:double" minOccurs="0" />
+              <xs:element name="ce" msprop:Generator_ColumnVarNameInTable="columnce" msprop:Generator_ColumnPropNameInRow="ce" msprop:Generator_ColumnPropNameInTable="ceColumn" msprop:Generator_UserColumnName="ce" type="xs:int" minOccurs="0" />
+              <xs:element name="cs" msprop:Generator_ColumnVarNameInTable="columncs" msprop:Generator_ColumnPropNameInRow="cs" msprop:Generator_ColumnPropNameInTable="csColumn" msprop:Generator_UserColumnName="cs" type="xs:int" minOccurs="0" />
+              <xs:element name="pts" msprop:Generator_ColumnVarNameInTable="columnpts" msprop:Generator_ColumnPropNameInRow="pts" msprop:Generator_ColumnPropNameInTable="ptsColumn" msprop:Generator_UserColumnName="pts" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="divisas" msprop:Generator_TableClassName="divisasDataTable" msprop:Generator_TableVarName="tabledivisas" msprop:Generator_TablePropName="divisas" msprop:Generator_RowDeletingName="divisasRowDeleting" msprop:Generator_RowChangingName="divisasRowChanging" msprop:Generator_RowEvHandlerName="divisasRowChangeEventHandler" msprop:Generator_RowDeletedName="divisasRowDeleted" msprop:Generator_UserTableName="divisas" msprop:Generator_RowChangedName="divisasRowChanged" msprop:Generator_RowEvArgName="divisasRowChangeEvent" msprop:Generator_RowClassName="divisasRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codigo" msprop:Generator_ColumnVarNameInTable="columncodigo" msprop:Generator_ColumnPropNameInRow="codigo" msprop:Generator_ColumnPropNameInTable="codigoColumn" msprop:Generator_UserColumnName="codigo" type="xs:string" minOccurs="0" />
+              <xs:element name="divisa" msprop:Generator_ColumnVarNameInTable="columndivisa" msprop:Generator_ColumnPropNameInRow="divisa" msprop:Generator_ColumnPropNameInTable="divisaColumn" msprop:Generator_UserColumnName="divisa" type="xs:string" minOccurs="0" />
+              <xs:element name="valor" msprop:Generator_ColumnVarNameInTable="columnvalor" msprop:Generator_ColumnPropNameInRow="valor" msprop:Generator_ColumnPropNameInTable="valorColumn" msprop:Generator_UserColumnName="valor" type="xs:double" minOccurs="0" />
+              <xs:element name="tipo" msprop:Generator_ColumnVarNameInTable="columntipo" msprop:Generator_ColumnPropNameInRow="tipo" msprop:Generator_ColumnPropNameInTable="tipoColumn" msprop:Generator_UserColumnName="tipo" type="xs:int" minOccurs="0" />
+              <xs:element name="cpromedio" msprop:Generator_ColumnVarNameInTable="columncpromedio" msprop:Generator_ColumnPropNameInRow="cpromedio" msprop:Generator_ColumnPropNameInTable="cpromedioColumn" msprop:Generator_UserColumnName="cpromedio" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="divisas_Existencia" msdata:parent="divisas" msdata:child="Existencia" msdata:parentkey="codigo" msdata:childkey="divisa" msprop:Generator_UserChildTable="Existencia" msprop:Generator_ChildPropName="GetExistenciaRows" msprop:Generator_UserRelationName="divisas_Existencia" msprop:Generator_ParentPropName="divisasRow" msprop:Generator_RelationVarName="relationdivisas_Existencia" msprop:Generator_UserParentTable="divisas" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

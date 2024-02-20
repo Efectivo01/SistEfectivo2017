@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ReporteDivisasDs" targetNamespace="http://tempuri.org/ReporteDivisasDs.xsd" xmlns:mstns="http://tempuri.org/ReporteDivisasDs.xsd" xmlns="http://tempuri.org/ReporteDivisasDs.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ReporteDivisasDs" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="ReporteDivisasDs" msprop:Generator_UserDSName="ReporteDivisasDs">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="divisas" msprop:Generator_TableClassName="divisasDataTable" msprop:Generator_TableVarName="tabledivisas" msprop:Generator_TablePropName="divisas" msprop:Generator_RowDeletingName="divisasRowDeleting" msprop:Generator_RowChangingName="divisasRowChanging" msprop:Generator_RowEvHandlerName="divisasRowChangeEventHandler" msprop:Generator_RowDeletedName="divisasRowDeleted" msprop:Generator_UserTableName="divisas" msprop:Generator_RowChangedName="divisasRowChanged" msprop:Generator_RowEvArgName="divisasRowChangeEvent" msprop:Generator_RowClassName="divisasRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codigo" msprop:Generator_ColumnVarNameInTable="columncodigo" msprop:Generator_ColumnPropNameInRow="codigo" msprop:Generator_ColumnPropNameInTable="codigoColumn" msprop:Generator_UserColumnName="codigo" type="xs:string" minOccurs="0" />
+              <xs:element name="divisa" msprop:Generator_ColumnVarNameInTable="columndivisa" msprop:Generator_ColumnPropNameInRow="divisa" msprop:Generator_ColumnPropNameInTable="divisaColumn" msprop:Generator_UserColumnName="divisa" type="xs:string" minOccurs="0" />
+              <xs:element name="valor" msprop:Generator_ColumnVarNameInTable="columnvalor" msprop:Generator_ColumnPropNameInRow="valor" msprop:Generator_ColumnPropNameInTable="valorColumn" msprop:Generator_UserColumnName="valor" type="xs:double" minOccurs="0" />
+              <xs:element name="tipo" msprop:Generator_ColumnVarNameInTable="columntipo" msprop:Generator_ColumnPropNameInRow="tipo" msprop:Generator_ColumnPropNameInTable="tipoColumn" msprop:Generator_UserColumnName="tipo" type="xs:int" minOccurs="0" />
+              <xs:element name="cpromedio" msprop:Generator_ColumnVarNameInTable="columncpromedio" msprop:Generator_ColumnPropNameInRow="cpromedio" msprop:Generator_ColumnPropNameInTable="cpromedioColumn" msprop:Generator_UserColumnName="cpromedio" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tinventario" msprop:Generator_TableClassName="tinventarioDataTable" msprop:Generator_TableVarName="tabletinventario" msprop:Generator_TablePropName="tinventario" msprop:Generator_RowDeletingName="tinventarioRowDeleting" msprop:Generator_RowChangingName="tinventarioRowChanging" msprop:Generator_RowEvHandlerName="tinventarioRowChangeEventHandler" msprop:Generator_RowDeletedName="tinventarioRowDeleted" msprop:Generator_UserTableName="tinventario" msprop:Generator_RowChangedName="tinventarioRowChanged" msprop:Generator_RowEvArgName="tinventarioRowChangeEvent" msprop:Generator_RowClassName="tinventarioRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codigo" msprop:Generator_ColumnVarNameInTable="columncodigo" msprop:Generator_ColumnPropNameInRow="codigo" msprop:Generator_ColumnPropNameInTable="codigoColumn" msprop:Generator_UserColumnName="codigo" type="xs:string" minOccurs="0" />
+              <xs:element name="si" msprop:Generator_ColumnVarNameInTable="columnsi" msprop:Generator_ColumnPropNameInRow="si" msprop:Generator_ColumnPropNameInTable="siColumn" msprop:Generator_UserColumnName="si" type="xs:int" minOccurs="0" />
+              <xs:element name="en" msprop:Generator_ColumnVarNameInTable="columnen" msprop:Generator_ColumnPropNameInRow="en" msprop:Generator_ColumnPropNameInTable="enColumn" msprop:Generator_UserColumnName="en" type="xs:int" minOccurs="0" />
+              <xs:element name="sal" msprop:Generator_ColumnVarNameInTable="columnsal" msprop:Generator_ColumnPropNameInRow="sal" msprop:Generator_ColumnPropNameInTable="salColumn" msprop:Generator_UserColumnName="sal" type="xs:int" minOccurs="0" />
+              <xs:element name="sf" msprop:Generator_ColumnVarNameInTable="columnsf" msprop:Generator_ColumnPropNameInRow="sf" msprop:Generator_ColumnPropNameInTable="sfColumn" msprop:Generator_UserColumnName="sf" type="xs:int" minOccurs="0" />
+              <xs:element name="cpromedio" msprop:Generator_ColumnVarNameInTable="columncpromedio" msprop:Generator_ColumnPropNameInRow="cpromedio" msprop:Generator_ColumnPropNameInTable="cpromedioColumn" msprop:Generator_UserColumnName="cpromedio" type="xs:double" minOccurs="0" />
+              <xs:element name="te" msprop:Generator_ColumnVarNameInTable="columnte" msprop:Generator_ColumnPropNameInRow="te" msprop:Generator_ColumnPropNameInTable="teColumn" msprop:Generator_UserColumnName="te" type="xs:int" minOccurs="0" />
+              <xs:element name="ts" msprop:Generator_ColumnVarNameInTable="columnts" msprop:Generator_ColumnPropNameInRow="ts" msprop:Generator_ColumnPropNameInTable="tsColumn" msprop:Generator_UserColumnName="ts" type="xs:int" minOccurs="0" />
+              <xs:element name="sucursal" msprop:Generator_ColumnVarNameInTable="columnsucursal" msprop:Generator_ColumnPropNameInRow="sucursal" msprop:Generator_ColumnPropNameInTable="sucursalColumn" msprop:Generator_UserColumnName="sucursal" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="tinventario_divisas" msdata:parent="tinventario" msdata:child="divisas" msdata:parentkey="codigo" msdata:childkey="codigo" msprop:Generator_UserChildTable="divisas" msprop:Generator_ChildPropName="GetdivisasRows" msprop:Generator_UserRelationName="tinventario_divisas" msprop:Generator_ParentPropName="tinventarioRow" msprop:Generator_RelationVarName="relationtinventario_divisas" msprop:Generator_UserParentTable="tinventario" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="RptGlobalDivisasDs2" targetNamespace="http://tempuri.org/RptGlobalDivisasDs2.xsd" xmlns:mstns="http://tempuri.org/RptGlobalDivisasDs2.xsd" xmlns="http://tempuri.org/RptGlobalDivisasDs2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="RptGlobalDivisasDs2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="RptGlobalDivisasDs2" msprop:Generator_UserDSName="RptGlobalDivisasDs2">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="remisioD" msprop:Generator_TableClassName="remisioDDataTable" msprop:Generator_TableVarName="tableremisioD" msprop:Generator_TablePropName="remisioD" msprop:Generator_RowDeletingName="remisioDRowDeleting" msprop:Generator_RowChangingName="remisioDRowChanging" msprop:Generator_RowEvHandlerName="remisioDRowChangeEventHandler" msprop:Generator_RowDeletedName="remisioDRowDeleted" msprop:Generator_UserTableName="remisioD" msprop:Generator_RowChangedName="remisioDRowChanged" msprop:Generator_RowEvArgName="remisioDRowChangeEvent" msprop:Generator_RowClassName="remisioDRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="divisa" msprop:Generator_ColumnVarNameInTable="columndivisa" msprop:Generator_ColumnPropNameInRow="divisa" msprop:Generator_ColumnPropNameInTable="divisaColumn" msprop:Generator_UserColumnName="divisa" type="xs:string" minOccurs="0" />
+              <xs:element name="tipo" msprop:Generator_ColumnVarNameInTable="columntipo" msprop:Generator_ColumnPropNameInRow="tipo" msprop:Generator_ColumnPropNameInTable="tipoColumn" msprop:Generator_UserColumnName="tipo" type="xs:int" minOccurs="0" />
+              <xs:element name="cantidads" msprop:Generator_ColumnVarNameInTable="columncantidads" msprop:Generator_ColumnPropNameInRow="cantidads" msprop:Generator_ColumnPropNameInTable="cantidadsColumn" msprop:Generator_UserColumnName="cantidads" type="xs:decimal" minOccurs="0" />
+              <xs:element name="precio_pro" msprop:Generator_ColumnVarNameInTable="columnprecio_pro" msprop:Generator_ColumnPropNameInRow="precio_pro" msprop:Generator_ColumnPropNameInTable="precio_proColumn" msprop:Generator_UserColumnName="precio_pro" type="xs:decimal" minOccurs="0" />
+              <xs:element name="stotal" msprop:Generator_ColumnVarNameInTable="columnstotal" msprop:Generator_ColumnPropNameInRow="stotal" msprop:Generator_ColumnPropNameInTable="stotalColumn" msprop:Generator_UserColumnName="stotal" type="xs:decimal" minOccurs="0" />
+              <xs:element name="billete" msprop:Generator_ColumnVarNameInTable="columnbillete" msprop:Generator_ColumnPropNameInRow="billete" msprop:Generator_ColumnPropNameInTable="billeteColumn" msprop:Generator_UserColumnName="billete" type="xs:decimal" minOccurs="0" />
+              <xs:element name="cantidadsV" msprop:Generator_ColumnVarNameInTable="columncantidadsV" msprop:Generator_ColumnPropNameInRow="cantidadsV" msprop:Generator_ColumnPropNameInTable="cantidadsVColumn" msprop:Generator_UserColumnName="cantidadsV" type="xs:decimal" minOccurs="0" />
+              <xs:element name="precio_proV" msprop:Generator_ColumnVarNameInTable="columnprecio_proV" msprop:Generator_ColumnPropNameInRow="precio_proV" msprop:Generator_ColumnPropNameInTable="precio_proVColumn" msprop:Generator_UserColumnName="precio_proV" type="xs:decimal" minOccurs="0" />
+              <xs:element name="stotalV" msprop:Generator_ColumnVarNameInTable="columnstotalV" msprop:Generator_ColumnPropNameInRow="stotalV" msprop:Generator_ColumnPropNameInTable="stotalVColumn" msprop:Generator_UserColumnName="stotalV" type="xs:decimal" minOccurs="0" />
+              <xs:element name="billeteV" msprop:Generator_ColumnVarNameInTable="columnbilleteV" msprop:Generator_ColumnPropNameInRow="billeteV" msprop:Generator_ColumnPropNameInTable="billeteVColumn" msprop:Generator_UserColumnName="billeteV" type="xs:decimal" minOccurs="0" />
+              <xs:element name="fechaI" msprop:Generator_ColumnVarNameInTable="columnfechaI" msprop:Generator_ColumnPropNameInRow="fechaI" msprop:Generator_ColumnPropNameInTable="fechaIColumn" msprop:Generator_UserColumnName="fechaI" type="xs:string" minOccurs="0" />
+              <xs:element name="fechaF" msprop:Generator_ColumnVarNameInTable="columnfechaF" msprop:Generator_ColumnPropNameInRow="fechaF" msprop:Generator_ColumnPropNameInTable="fechaFColumn" msprop:Generator_UserColumnName="fechaF" type="xs:string" minOccurs="0" />
+              <xs:element name="nombre" msprop:Generator_ColumnVarNameInTable="columnnombre" msprop:Generator_ColumnPropNameInRow="nombre" msprop:Generator_ColumnPropNameInTable="nombreColumn" msprop:Generator_UserColumnName="nombre" type="xs:string" minOccurs="0" />
+              <xs:element name="compra" msprop:Generator_ColumnVarNameInTable="columncompra" msprop:Generator_ColumnPropNameInRow="compra" msprop:Generator_ColumnPropNameInTable="compraColumn" msprop:Generator_UserColumnName="compra" type="xs:int" minOccurs="0" />
+              <xs:element name="venta" msprop:Generator_ColumnVarNameInTable="columnventa" msprop:Generator_ColumnPropNameInRow="venta" msprop:Generator_ColumnPropNameInTable="ventaColumn" msprop:Generator_UserColumnName="venta" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
